@@ -9,7 +9,7 @@ Meta Research
 1.segment-anything
 - 代码：https://github.com/facebookresearch/segment-anything
 - 数据集：https://ai.meta.com/datasets/segment-anything-downloads/
-- 知乎：https://zhuanlan.zhihu.com/p/717053976
+- 知乎：
 -该存储库已由所有者于 2024 年 7 月 1 日存档。现在为只读。
 - 该存储库提供使用 SegmentAnything 模型 (SAM) 运行推理的代码、用于下载训练后的模型检查点的链接以及展示如何使用该模型的示例笔记本。
 <img width="1206" alt="model_diagram" src="https://github.com/user-attachments/assets/0747c177-ae99-4364-abac-e54eebcd2824">
