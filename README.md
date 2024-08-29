@@ -1,4 +1,4 @@
-# -shuaishuai notes
+![image](https://github.com/user-attachments/assets/dcd48049-affc-47f2-978e-41595379ec40)# -shuaishuai notes
  ---------------------------------------------------------------------------------------
 模型代码
  ---------------------------------------------------------------------------------------
@@ -9,13 +9,17 @@ Meta Research
 1.segment-anything
 - 代码：https://github.com/facebookresearch/segment-anything
 - 数据集：https://ai.meta.com/datasets/segment-anything-downloads/
+- 网址：https://segment-anything.com/
+- online demo：https://segment-anything.com/demo
 - 知乎：
 -该存储库已由所有者于 2024 年 7 月 1 日存档。现在为只读。
 - 该存储库提供使用 SegmentAnything 模型 (SAM) 运行推理的代码、用于下载训练后的模型检查点的链接以及展示如何使用该模型的示例笔记本。
 <img width="1206" alt="model_diagram" src="https://github.com/user-attachments/assets/0747c177-ae99-4364-abac-e54eebcd2824">
 <img src="https://github.com/sshuaichai/shuaishuai-notes/blob/main/assets/minidemo.gif" width="500"/>
 
+![image](https://github.com/user-attachments/assets/98b33e8e-0649-434a-8555-1dfa0eff6073)
 
+![image](https://github.com/user-attachments/assets/728a8ff2-6520-4afb-a35c-880f6049eee5)
 
 
 
