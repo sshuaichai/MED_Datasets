@@ -15,7 +15,7 @@ Meta Research
 -该存储库已由所有者于 2024 年 7 月 1 日存档。现在为只读。
 - 该存储库提供使用 SegmentAnything 模型 (SAM) 运行推理的代码、用于下载训练后的模型检查点的链接以及展示如何使用该模型的示例笔记本。
 <img width="1206" alt="model_diagram" src="https://github.com/user-attachments/assets/0747c177-ae99-4364-abac-e54eebcd2824">
-<img src="https://github.com/sshuaichai/shuaishuai-notes/blob/main/assets/minidemo.gif" width="500"/>
+ <img src="https://github.com/sshuaichai/shuaishuai-notes/blob/main/assets/minidemo.gif" width="500"/>
 
 ![image](https://github.com/user-attachments/assets/98b33e8e-0649-434a-8555-1dfa0eff6073)
 
@@ -31,9 +31,9 @@ Meta Research
  ---------------------------------------------------------------------------------------
 
  1.Segment anything in medical images
- 论文：https://www.nature.com/articles/s41467-024-44824-z  、  https://arxiv.org/pdf/2304.12306
- 代码：https://github.com/bowang-lab/MedSAM
- 知乎：https://zhuanlan.zhihu.com/p/717053976
+ - 论文：https://www.nature.com/articles/s41467-024-44824-z  、  https://arxiv.org/pdf/2304.12306
+-  代码：https://github.com/bowang-lab/MedSAM
+-  知乎：https://zhuanlan.zhihu.com/p/717053976
 ![image](https://github.com/user-attachments/assets/3e8b0a14-fbd3-496e-84e9-db76b7da2b4c)
 
 
