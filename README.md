@@ -26,8 +26,8 @@
 - 对视觉及其他领域 Segment Anything 模型的全面调查的论文：https://github.com/liliu-avril/Awesome-Segment-Anything?tab=readme-ov-file
 - 针对任何事物的通用 AI 方法的精选列表：https://github.com/VainF/Awesome-Anything?tab=readme-ov-file
 - Segment Anything 推动了计算机视觉（CV）领域的新突破，本仓库将持续跟踪和总结 Segment Anything 在各个领域的研究进展，包括论文/项目等：https://github.com/Hedlen/awesome-segment-anything
-- SAM 和相关研究的项目、论文和源代码的集合☆:https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything?tab=readme-ov-file
-- 超棒的分割任何内容扩展☆：https://github.com/JerryX1110/awesome-segment-anything-extensions?tab=readme-ov-file
+- SAM 和相关研究的项目、论文和源代码的集合 ☆ :https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything?tab=readme-ov-file
+- 超棒的分割任何内容扩展 ☆ ：https://github.com/JerryX1110/awesome-segment-anything-extensions?tab=readme-ov-file
 ![232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2](https://github.com/user-attachments/assets/b9ffed3b-5558-435a-a3e3-01d82d5b0e6c)
 
 
