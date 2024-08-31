@@ -19,7 +19,6 @@
 
 ![image](https://github.com/user-attachments/assets/98b33e8e-0649-434a-8555-1dfa0eff6073)
 
-![image](https://github.com/user-attachments/assets/728a8ff2-6520-4afb-a35c-880f6049eee5)
 
 自从sam模型发布以来，基于sam的二次应用及衍生项目越来越多，将其应用于各种任务，比如图像修复( image inpainting)、图像编辑（ image editing）、目标检测（objects detection）、图像标注（Image Caption）、视频跟踪(object tracking)、3d检测等等。
 参考知乎：https://zhuanlan.zhihu.com/p/630529550
