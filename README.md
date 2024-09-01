@@ -1,4 +1,4 @@
-# Very useful medical segmentation data and AI papers（Updated to 2024/09/01）
+# Very useful medical data and AI papers（Updated to 2024/09/01）
 > - ##
   
  ---------------------------------------------------------------------------------------
