@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/35d3533f-fd05-4984-9372-f8176f393c69)# -shuaishuai notes
+# Very useful medical segmentation data and AI papers（Updated to 2024/09/01）
  ---------------------------------------------------------------------------------------
 模型代码
  ---------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@
 ![232959211-6ee84ad5-a02d-44ca-91d2-17d12b978fb2](https://github.com/user-attachments/assets/b9ffed3b-5558-435a-a3e3-01d82d5b0e6c)
 
 
-
+**2.SAM 2: Segment Anything in Images and Videos**
 
 
 
