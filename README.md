@@ -1,4 +1,4 @@
-# -shuaishuai notes
+![image](https://github.com/user-attachments/assets/35d3533f-fd05-4984-9372-f8176f393c69)# -shuaishuai notes
  ---------------------------------------------------------------------------------------
 模型代码
  ---------------------------------------------------------------------------------------
@@ -6,7 +6,11 @@
 # facebookresearch
 **Meta Research**
 
+
 **1.segment-anything**
+![image](https://github.com/user-attachments/assets/d9db2ad2-c278-488f-bb40-dc2a781a9cb9)
+
+- 论文：https://ai.meta.com/research/publications/segment-anything/
 - 代码：https://github.com/facebookresearch/segment-anything
 - 数据集：https://ai.meta.com/datasets/segment-anything-downloads/
 - 网址：https://segment-anything.com/
@@ -16,10 +20,7 @@
 - 该存储库提供使用 SegmentAnything 模型 (SAM) 运行推理的代码、用于下载训练后的模型检查点的链接以及展示如何使用该模型的示例笔记本。
 <img width="1206" alt="model_diagram" src="https://github.com/user-attachments/assets/0747c177-ae99-4364-abac-e54eebcd2824">
  <img src="https://github.com/sshuaichai/shuaishuai-notes/blob/main/assets/minidemo.gif" width="500"/>
-
-![image](https://github.com/user-attachments/assets/98b33e8e-0649-434a-8555-1dfa0eff6073)
-
-
+ 
 自从sam模型发布以来，基于sam的二次应用及衍生项目越来越多，将其应用于各种任务，比如图像修复( image inpainting)、图像编辑（ image editing）、目标检测（objects detection）、图像标注（Image Caption）、视频跟踪(object tracking)、3d检测等等。
 参考知乎：https://zhuanlan.zhihu.com/p/630529550
 - 收集一些 Transformer 与计算机视觉（CV）的论文：https://github.com/dk-liang/Awesome-Visual-Transformer
