@@ -1,4 +1,4 @@
-# Very Useful Medical Data and AI Papers (Updated to 2024/09/01)
+# Very Useful Medical Data and AI Papers (In the making...)
 
 > -
 
